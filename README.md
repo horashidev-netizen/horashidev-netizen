@@ -73,8 +73,15 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horashidev-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF" height="155" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horashidev-netizen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF" height="155" alt="Top Languages" />
+  <!-- Activity Graph dạng sóng -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horashidev-netizen&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Streak Stats (vẫn giữ nguyên vì hiển thị tốt) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horashidev-netizen&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF" alt="Streak Stats" />
 </div>
 
 <br/>
