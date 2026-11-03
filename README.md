@@ -85,11 +85,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horashidev-netizen&theme=tokyonight&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF" alt="Streak Stats" />
-</div>
-
 ---
 
 <div align="center">
