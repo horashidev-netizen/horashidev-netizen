@@ -85,7 +85,6 @@
 </div>
 
 <br/>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=horashidev-netizen&style=flat-square&color=00D2FF" alt="Profile Views" />
